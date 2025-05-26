@@ -1,6 +1,11 @@
-### boas vindas ao meu perfil
+### Boas vindas ao meu perfil
 
-meu nome é geovana de paula
+Meu nome é Geovana De Paula
 
-estou estudando na [alura](wttps:www.alura.com.br)
-![.]https://media.tenor.com/Xblbq1SzufUAAAAj/i-love-you.gif
+- Estou estudando na [Alura](https://www.alura.com.br)
+
+  
+![.](https://media.tenor.com/Xblbq1SzufUAAAAj/i-love-you.gif)
+
+PARA ENTRAR EM CONTATO COMIGO:
+geovana.paula.pereira@escola.pr.gov.br
